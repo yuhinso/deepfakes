@@ -1,0 +1,10 @@
+.ipynb_checkpoints
+__pycache__
+*.h5
+data/
+input/
+output/
+archive
+raw/
+*.dat
+models/
